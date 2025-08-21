@@ -3,7 +3,7 @@
 A relational database design for an **online sports betting platform**.  
 It manages gamblers, accounts, matches, bets, and transactions, while providing optimized queries and views.  
 
-📺 **Video overview:** [Watch here](https://youtu.be/85W9haHjSCA)
+📺 **Video overview:** [Watch here]([https://youtu.be/85W9haHjSCA](https://www.youtube.com/watch?v=85W9haHjSCA))
 
 ---
 
